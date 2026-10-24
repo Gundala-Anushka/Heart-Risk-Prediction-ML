@@ -91,7 +91,7 @@ The dataset was split into **80% training data (800 samples)** and **20% testing
 ## Authors
 
 * **Anushka Gundala** — [@Gundala-Anushka](https://github.com/Gundala-Anushka)
-* **Soumya M**
+* **Soumya Ranjan Mahakud** -[@Soumya-ranjan-Mahakud](https://github.com/soumyawork2006-rgb)
 * **Prajna** -[@Prajna-dash](https://github.com/prajnadash73-netizen)
 * **Soumyasmita**
 
