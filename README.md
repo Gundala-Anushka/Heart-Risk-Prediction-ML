@@ -92,8 +92,8 @@ The dataset was split into **80% training data (800 samples)** and **20% testing
 
 * **Anushka Gundala** — [@Gundala-Anushka](https://github.com/Gundala-Anushka)
 * **Soumya M**
-* **Prajna Dash**
-* **Soumyasmita M**
+* **Prajna**
+* **Soumyasmita**
 
 ---
 
