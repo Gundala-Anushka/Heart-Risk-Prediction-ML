@@ -60,27 +60,43 @@ The dataset was split into **80% training data (800 samples)** and **20% testing
 ├── .gitignore                             # Ignored virtual environment files
 ├── LICENSE                                # MIT License
 └── README.md                              # Project documentation
-
+```
+---
 ## How to Run Locally
-1. Clone the repository:
-git clone [https://github.com/Gundala-Anushka/Heart-Risk-Prediction-ML.git](https://github.com/Gundala-Anushka/Heart-Risk-Prediction-ML.git)
-cd Heart-Risk-Prediction-ML
 
-2. Create and activate a virtual environment:
-python -m venv venv
-venv\Scripts\activate
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Gundala-Anushka/Heart-Risk-Prediction-ML.git](https://github.com/Gundala-Anushka/Heart-Risk-Prediction-ML.git)
+   cd Heart-Risk-Prediction-ML
+   ```
 
-3. Install dependencies:
-pip install numpy pandas scikit-learn matplotlib seaborn jupyter joblib
+2. **Create and activate a virtual environment:**
+   ```powershell
+   python -m venv venv
+   venv\Scripts\activate
+   ```
 
-4.Launch the Jupyter Notebook:
-jupyter notebook
+3. **Install dependencies:**
+   ```powershell
+   pip install numpy pandas scikit-learn matplotlib seaborn jupyter joblib
+   ```
 
-## Author
-Anushka Gundala — @Gundala-Anushka
-Soumya M
-Prajna Dash
-Soumyasmita M
+4. **Launch the Jupyter Notebook:**
+   ```powershell
+   jupyter notebook
+   ```
+
+---
+
+## Authors
+
+* **Anushka Gundala** — [@Gundala-Anushka](https://github.com/Gundala-Anushka)
+* **Soumya M**
+* **Prajna Dash**
+* **Soumyasmita M**
+
+---
 
 ## Acknowledgments & Inspiration
-Inspired by the baseline notebook structure from NhanPhamThanh-IT/Logistic-Heart-Disease-Prediction. Adapted and expanded with a custom 16-feature dataset, multi-model benchmarking, feature scaling pipelines, and model serialization.
+
+* Inspired by the baseline notebook structure from [NhanPhamThanh-IT/Logistic-Heart-Disease-Prediction](https://github.com/NhanPhamThanh-IT/Logistic-Heart-Disease-Prediction). Adapted and expanded with a custom 16-feature dataset, multi-model benchmarking, feature scaling pipelines, and model serialization.
